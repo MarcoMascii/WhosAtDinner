@@ -1,0 +1,6 @@
+C:\Users\Marco\Desktop\NewApp\WhoseAtDinner.Models\bin\Debug\WhoseAtDinner.Models.dll
+C:\Users\Marco\Desktop\NewApp\WhoseAtDinner.Models\bin\Debug\WhoseAtDinner.Models.pdb
+C:\Users\Marco\Desktop\NewApp\WhoseAtDinner.Models\obj\Debug\WhoseAtDinner.Models.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\NewApp\WhoseAtDinner.Models\obj\Debug\WhoseAtDinner.Models.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\NewApp\WhoseAtDinner.Models\obj\Debug\WhoseAtDinner.Models.dll
+C:\Users\Marco\Desktop\NewApp\WhoseAtDinner.Models\obj\Debug\WhoseAtDinner.Models.pdb
