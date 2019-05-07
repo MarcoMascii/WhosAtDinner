@@ -13,13 +13,13 @@ namespace WhosAtDinner.Controllers
         {
             try
             {
-                IQueryable<User> users =  UserService.GetAllUsers();
+                IQueryable<User> users = UserService.GetAllUsers();
                 return Ok(users);
             }
             catch (Exception)
             {
                 return InternalServerError();
-            }   
+            }
         }
 
         [HttpGet]
